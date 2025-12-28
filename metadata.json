@@ -1,0 +1,7 @@
+{
+  "name": "2025 Weather Wrapped",
+  "description": "A festive Year in Weather Wrapped experience using NASA GIBS satellite data. Generate a beautiful timelapse of any location on Earth for the year 2025.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
